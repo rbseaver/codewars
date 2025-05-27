@@ -1,6 +1,11 @@
-// Note: the exercise on codewars asks for "camel case",
-//  but what's actually needed is Pascal case.
+import { toPascalCase } from './kata';
 
 describe('when converting to camel case', () => {
-  
-})
+  it('should do the thing!', () => {
+    const input = 'derp is my favorite word';
+
+    const result = toPascalCase(input);
+
+    expect(result).toBe('DerpIsMyFavoriteWord');
+  })
+});
