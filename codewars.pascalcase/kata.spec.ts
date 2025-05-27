@@ -12,7 +12,7 @@ I'm committing it to the solutions anyway. It's quite possible I'm missing somet
 I will return and correct this if if I discover the input that's being tested.
 */
 
-describe('when converting to camel case', () => {
+describe('when converting to pascal case', () => {
   it.each([
     ['derp is my favorite word', 'DerpIsMyFavoriteWord'],
     ['I like camels', 'ILikeCamels']

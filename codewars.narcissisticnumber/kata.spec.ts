@@ -5,7 +5,7 @@ describe('when finding the narcissistic number', () => {
     [153, true],
     [1634, true],
     [1652, false]
-  ])('"%d" should be "%b"', (input, expected) => {
+  ])('%d should be %s', (input, expected) => {
     const result = narcissistic(input);
 
     expect(result).toBe(expected);
