@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.2.0](https://github.com/rbseaver/codewars/compare/v1.1.0...v1.2.0) (2025-05-27)
+
+
+### Features
+
+* odd or even detector ([91b2993](https://github.com/rbseaver/codewars/commit/91b2993bdd96881bb8103b43eb97722fe8260b61))
+
 ## [1.1.0](https://github.com/rbseaver/codewars/compare/v1.0.0...v1.1.0) (2025-05-27)
 
 
