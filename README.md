@@ -6,3 +6,9 @@ This is a repository containing my solutions to various coding challenges on Cod
 
 Peruse the code in each folder, or run tests to see the solutions in action. All solutions are written in TypeScript.
 
+## Completed Kata
+
+1. [Narcisstic Number](./codewars.narcissisticnumber/index.md)
+2. [Pascal Case](./codewars.pascalcase/index.md)
+3. [Odd or Even](./codewars.oddoreven/index.md)
+4. [Array Diff and Filter](./codewars.arraydiff/index.md)
