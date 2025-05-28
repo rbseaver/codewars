@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.4.1](https://github.com/rbseaver/codewars/compare/v1.4.0...v1.4.1) (2025-05-28)
+
+
+### Bug Fixes
+
+* remove .slice() as array destructuring gets us the first two numbers ([74f276f](https://github.com/rbseaver/codewars/commit/74f276f161e3df7312fc91dbabe22bc10221930e))
+
 ## [1.4.0](https://github.com/rbseaver/codewars/compare/v1.3.0...v1.4.0) (2025-05-28)
 
 
