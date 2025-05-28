@@ -31,4 +31,7 @@ The triangle inequality theorem states that, for three side lengths to form a va
 ```
 
 If all three conditions hold true, the numbers can form a triangle. If even one of them fails, they cannot.
-
+___
+- URL: https://www.codewars.com/kata/56606694ec01347ce800001b
+- Solution: [kata.ts](./kata.ts)
+- Test: [kata.spec.ts](./kata.spec.ts)

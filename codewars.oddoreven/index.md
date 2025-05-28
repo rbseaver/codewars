@@ -23,6 +23,6 @@ Output: "even"
 
 Have fun!
 ___
-URL: https://www.codewars.com/kata/5949481f86420f59480000e7
-Solution: [kata.ts](./kata.ts)
-Test: [kata.spec.ts](./kata.spec.ts)
+- URL: https://www.codewars.com/kata/5949481f86420f59480000e7
+- Solution: [kata.ts](./kata.ts)
+- Test: [kata.spec.ts](./kata.spec.ts)

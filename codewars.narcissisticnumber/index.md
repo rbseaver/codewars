@@ -21,6 +21,6 @@ This may be True and False in your language, e.g. PHP.
 
 Error checking for text strings or other invalid inputs is not required, only valid positive non-zero integers will be passed into the function.
 ___
-URL: https://www.codewars.com/kata/5287e858c6b5a9678200083c
-Solution: [kata.ts](./kata.ts)
-Test: [kata.spec.ts](./kata.spec.ts)
+- URL: https://www.codewars.com/kata/5287e858c6b5a9678200083c
+- Solution: [kata.ts](./kata.ts)
+- Test: [kata.spec.ts](./kata.spec.ts)
