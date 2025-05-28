@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.4.0](https://github.com/rbseaver/codewars/compare/v1.3.0...v1.4.0) (2025-05-28)
+
+
+### Features
+
+* sum the two smallest numbers of an array ([3307585](https://github.com/rbseaver/codewars/commit/3307585f8defa0602784fd8f6f4cc5be812605c1))
+
 ## [1.3.0](https://github.com/rbseaver/codewars/compare/v1.2.0...v1.3.0) (2025-05-27)
 
 
