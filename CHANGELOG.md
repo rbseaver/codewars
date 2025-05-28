@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.5.0](https://github.com/rbseaver/codewars/compare/v1.4.1...v1.5.0) (2025-05-28)
+
+
+### Features
+
+* determine if three integers can be used to form a triangle ([34a17ed](https://github.com/rbseaver/codewars/commit/34a17edc0d5a562b76505de6976a7a0157fc7612))
+
 ## [1.4.1](https://github.com/rbseaver/codewars/compare/v1.4.0...v1.4.1) (2025-05-28)
 
 
