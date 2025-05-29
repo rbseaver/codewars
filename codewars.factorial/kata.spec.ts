@@ -1,15 +1,31 @@
-import { factorial } from './kata'
+import { factorial, factorialNonRecursive } from './kata'
 
 describe('when calculating factorial', () => {
-  it('and 0 is passed, factorial should be 1', () => {
-    const result = factorial(0);
+  describe('with recursive factorial function', () => {
+    it.each([
+      [0, 1],
+      [1, 1],
+      [4, 24],
+      [7, 5040],
+      [17, 355687428096000]
+    ])('and %s is passed, factorial from recursive function should be %s', (input, expected) => {
+      const result = factorial(input);
 
-    expect(result).toBe(1);
+      expect(result).toBe(expected);
+    });
   });
 
-  it('and 1 is passed, factorial should be 1', () => {
-    const result = factorial(1);
+  describe('with non-recursive function', () => {
+    it.each([
+      [0, 1],
+      [1, 1],
+      [4, 24],
+      [7, 5040],
+      [17, 355687428096000]
+    ])('and %s is passed, factorial from non-recursive factorial function should be %s', (input, expected) => {
+      const result = factorialNonRecursive(input);
 
-    expect(result).toBe(1);
-  })
-})
+      expect(result).toBe(expected);
+    });
+  });
+});
